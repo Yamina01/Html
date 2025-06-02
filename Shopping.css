@@ -1,0 +1,45 @@
+.country{
+    margin-left: 357%;
+    margin-top: 8px;
+}
+.account{
+    margin-left: 10%;
+    margin-top: 8px;
+}
+.returns{
+    margin-left: 10%;
+    margin-top: 1px;
+}
+.orders{
+margin-left: -62px;
+}
+.cart{
+    margin-left: 10%;
+    margin-top: 8px;
+}
+
+.others{
+    display: flex;
+    justify-content: space-around;
+}
+
+.nav{
+
+display: flex;
+color: white;
+background-color: lightslategrey;
+    height:43px;
+}
+
+.logo{
+     height: 43px;
+}
+
+.location{
+   
+    margin-left: 10px;
+    margin-top: 8px;
+}
+.Country{
+margin-left: 100 px;
+}

@@ -1,0 +1,29 @@
+.sample{
+    color: aquamarine;
+}
+.abc{
+    color: blueviolet;
+    margin-left: 600px;
+}
+.Wall{
+    width: 100px;
+height: 60px;
+}
+.ex{
+    display: flex;
+    justify-content: space-around;
+    background-color: aquamarine;
+    padding: 10px;
+}
+.ab{
+    margin-left: 10%;
+}
+.ex1{
+        display: flex;
+  
+    background-color: aqua;
+    flex-direction: column;
+    width: 80px;
+    height: 100vh;
+    gap: 60px;
+}

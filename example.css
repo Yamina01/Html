@@ -1,0 +1,11 @@
+.heading{
+    position: fixed;
+    display: flex;
+    justify-content: space-around;
+    background-color: aqua;
+    width: 100%;
+}
+.para{
+    height: 200px;
+    overflow: scroll;
+}
